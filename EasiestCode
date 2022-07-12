@@ -1,0 +1,25 @@
+# print('what to print')
+# print('what to print')
+# print("Hello Earth!\nHeloo Earth!")
+# print("what to print1")
+# print("helo" + input("what is your name?"))
+# print(len(input("what is your name" )))
+# name = input("what is your name?" )
+# length = len(name)
+# print(length)
+# a = input("a: ")
+# b = input("b: ")
+# c = a
+# a = b
+# b = c
+# print("Welcome to the Band Name Generator.")
+# street = input("What's name of the city you grew up in?\n")
+# pet = input("What's your pet's name?\n")
+# print("Your band name could be " + street + " " + pet)
+print("Welcome to the Africa the loand with enormous natural resources")
+# city = input("which is city in Africa did you come from?\n")
+city = input("which is city in Africa did you come from?\n")
+# nickname = input("what is your nickname in high school?\n") 
+nickname = input("what is your nickname in high school?\n")
+# Combine both city and nickname together
+citynickname = print("Your citynickname could be " + city + " " + nickname)
